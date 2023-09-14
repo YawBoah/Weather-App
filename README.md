@@ -36,7 +36,7 @@ Welcome to the WeatherApp, a simple and interactive web application that provide
 
 ## Preview
 
-![WeatherApp Screenshot](weatherapp-screenshot.png)
+![Screenshot 2023-09-14 211939](https://github.com/YawBoah/Weather-App/assets/126890146/e11b12d9-2ef0-4b4d-93ee-9451c94eee46)
 
 ## Contribute
 
