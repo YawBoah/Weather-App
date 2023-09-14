@@ -40,6 +40,7 @@ Welcome to the WeatherApp, a simple and interactive web application that provide
 
 If you'd like to contribute to WeatherApp or have suggestions for improvements, please feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
+## Author
 - **MASTERYob**
 - GitHub: [Your GitHub Profile](https://github.com/YawBoah)
 
