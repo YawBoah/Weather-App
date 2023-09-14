@@ -14,8 +14,6 @@ Welcome to the WeatherApp, a simple and interactive web application that provide
 
 - **Weather Icon**: Get an at-a-glance view of the current weather with an intuitive weather icon.
 
-- **Responsive Design**: WeatherApp is designed to work seamlessly on desktop and mobile devices, ensuring that you can check the weather on the go.
-
 ## How to Use
 
 1. Simply enter the name of the city you want to check the weather for in the search bar.
@@ -41,6 +39,9 @@ Welcome to the WeatherApp, a simple and interactive web application that provide
 ## Contribute
 
 If you'd like to contribute to WeatherApp or have suggestions for improvements, please feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+
+- **MASTERYob**
+- GitHub: [Your GitHub Profile](https://github.com/YawBoah)
 
 ## License
 
