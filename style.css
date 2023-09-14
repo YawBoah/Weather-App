@@ -76,7 +76,7 @@ body{
     flex-direction: column;
     float: left;
     justify-items: space-between;
-    padding: 0px 40px;
+    padding: 0px 20px;
     margin-top: 50px;
 }
 
@@ -89,4 +89,9 @@ body{
 .col img{
     width: 30px;
     margin-right: 10px;
+}
+
+.humidity, .wind{
+    font-size: 28px;
+    margin-right: -6px;
 }
