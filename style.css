@@ -11,6 +11,7 @@ body{
 
 .card{
     width: 90%;
+    height: 550px;
     max-width: 470px;
     background: linear-gradient(135deg, #00feba, #5b548a );
     margin: 100px auto 0;
@@ -51,5 +52,41 @@ body{
 
 
 .search button img{
-    width: 16px;
+    width: 20px;
+}
+
+.weather-icon{
+    width: 150px;
+    margin-top: 30px;
+}
+
+.weather h1{
+    font-size: 70px;
+    font-weight: 500;
+}
+
+.weather h2{
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: -10px;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    justify-items: space-between;
+    padding: 0px 40px;
+    margin-top: 50px;
+}
+
+.col{
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+.col img{
+    width: 30px;
+    margin-right: 10px;
 }
